@@ -1,2 +1,3 @@
 practicing git is a good choice
 adding second line to the file
+practice until you get used to it
