@@ -2,3 +2,5 @@ practicing git is a good choice
 adding second line to the file
 practice until you get used to it
 now changing in remote.
+5th line is added in local machine
+6th line is also written
